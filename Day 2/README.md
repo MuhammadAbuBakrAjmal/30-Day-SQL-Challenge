@@ -1,6 +1,6 @@
 # Day 2 - SELECT & WHERE
 
-| [← Day 1: Introduction to SQL & Databases](../day-01/) |
+| USE SELECT & WHERE |
 ---
 
 ### Contents

@@ -1,7 +1,6 @@
 # Day 2 - SELECT & WHERE
 
-[Watch the video](https://www.youtube.com/watch?v=-0uVBtXCZ_s) | [← Day 1: Introduction to SQL & Databases](../day-01/) | [Day 3: ORDER BY & LIMIT →](../day-03/)
-
+| [← Day 1: Introduction to SQL & Databases](../day-01/) |
 ---
 
 ### Contents
@@ -166,5 +165,3 @@ Using the `loan_applications` table, answer the questions below.
 - **IS NULL:** The only way to check for missing values - never use `= NULL` (it always returns zero rows)
 
 ---
-
-[← Day 1: Introduction to SQL & Databases](../day-01/) | [Day 3: ORDER BY & LIMIT →](../day-03/)

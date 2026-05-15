@@ -1,8 +1,6 @@
 # Day 3 - ORDER BY & LIMIT
 
-[Watch the video](https://www.youtube.com/watch?v=s86nI9dPZqY) | [← Day 2: SELECT & WHERE](../day-02/) | [Day 4: Aggregate Functions & GROUP BY →](../day-04/)
-
----
+| ORDER & LIMIT |
 
 ### Contents
 - [What You'll Learn](#what-youll-learn)
@@ -129,5 +127,3 @@ Using the `online_orders` table above, answer these questions:
 - **IN and BETWEEN:** IN matches against a list of values; BETWEEN filters within an inclusive range (works on numbers, dates, and text)
 
 ---
-
-[← Day 2: SELECT & WHERE](../day-02/) | [Day 4: Aggregate Functions & GROUP BY →](../day-04/)

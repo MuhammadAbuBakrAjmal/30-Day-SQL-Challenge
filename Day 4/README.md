@@ -1,6 +1,6 @@
 # Day 4 - Aggregate Functions & GROUP BY
 
-[Watch the video](https://www.youtube.com/watch?v=7IWrvTIrIkg) | [← Day 3: ORDER BY & LIMIT](../day-03/) | [Day 5: INSERT, UPDATE & DELETE →](../day-05/)
+ | Aggregate Functions & GROUP BY |
 
 ---
 
@@ -154,5 +154,3 @@ Using the `sales_transactions` table above, answer these questions:
 - **ROUND():** Wraps AVG to trim long decimal strings down to a readable number of decimal places
 
 ---
-
-[← Day 3: ORDER BY & LIMIT](../day-03/) | [Day 5: INSERT, UPDATE & DELETE →](../day-05/)

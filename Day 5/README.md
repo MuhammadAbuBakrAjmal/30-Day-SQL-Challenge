@@ -1,6 +1,6 @@
 # Day 5 - INSERT, UPDATE & DELETE
 
-[Watch the video](https://www.youtube.com/watch?v=NJ4ujmOZt60) | [← Day 4: Aggregate Functions & GROUP BY](../day-04/) | [Day 6: Primary Keys, Foreign Keys & Constraints →](../day-06/)
+| INSERT, UPDATE & DELETE |
 
 ---
 
@@ -160,5 +160,3 @@ Using the `support_tickets` and `products` tables above, complete these tasks:
 - **DELETE vs TRUNCATE vs DROP:** DELETE removes specific rows; TRUNCATE empties a table fast (resets IDs); DROP removes the entire table structure
 
 ---
-
-[← Day 4: Aggregate Functions & GROUP BY](../day-04/) | [Day 6: Primary Keys, Foreign Keys & Constraints →](../day-06/)

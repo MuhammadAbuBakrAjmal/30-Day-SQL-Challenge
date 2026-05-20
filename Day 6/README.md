@@ -1,6 +1,6 @@
 # Day 6 - PRIMARY KEY, FOREIGN KEY & Constraints
 
-[Watch the video](https://www.youtube.com/watch?v=1AdFU8Vdq-0) | [← Day 5: INSERT, UPDATE & DELETE](../day-05/) | [Day 7: Project - Freight & Logistics Performance Report →](../day-07/)
+ | PRIMARY KEY, FOREIGN KEY & Constraints |
 
 ---
 
@@ -220,5 +220,3 @@ Using the concepts from today's lesson, complete these tasks:
 - **CASCADE, SET NULL, RESTRICT**: Control what happens when referenced data is deleted - delete children, preserve children, or block the operation entirely
 
 ---
-
-[← Day 5: INSERT, UPDATE & DELETE](../day-05/) | [Day 7: Project - Freight & Logistics Performance Report →](../day-07/)

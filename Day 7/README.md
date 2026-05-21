@@ -1,6 +1,6 @@
 # Day 7 - Project: Freight & Logistics Performance Report
 
-[Watch the video](https://youtu.be/fiBYAziNtGI) | [← Day 6: PRIMARY KEY, FOREIGN KEY & Constraints](../day-06/) | [Day 8: NULL Handling →](../day-08/)
+| Project: Freight & Logistics Performance Report | 
 
 ---
 
@@ -330,4 +330,3 @@ Now that the data is clean, build the board report. Calculate total shipments by
 
 ---
 
-[← Day 6: PRIMARY KEY, FOREIGN KEY & Constraints](../day-06/) | [Day 8: NULL Handling →](../day-08/)

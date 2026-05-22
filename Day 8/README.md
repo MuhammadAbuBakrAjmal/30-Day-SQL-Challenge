@@ -1,7 +1,6 @@
 # Day 8 - NULL Handling
 
-[Watch the video](https://www.youtube.com/watch?v=0nH464EoZ9w) | [← Day 7: Project - Freight & Logistics Performance Report](../day-07/) | [Day 9: String & Numeric Functions →](../day-09/)
-
+| NULL Handling |
 ---
 
 ### Contents
@@ -235,5 +234,3 @@ Using the `product_catalogue` table, answer these questions:
 - **AVG ignores NULLs**: Use COALESCE(column, 0) if you want NULLs treated as zero in averages
 
 ---
-
-[← Day 7: Project - Freight & Logistics Performance Report](../day-07/) | [Day 9: String & Numeric Functions →](../day-09/)

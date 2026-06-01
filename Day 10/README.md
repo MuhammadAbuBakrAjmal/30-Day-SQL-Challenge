@@ -1,6 +1,6 @@
 # Day 10 - Date Functions & CAST
 
-[Watch the video](https://youtu.be/Iturx2kgs1A) | [← Day 9: String & Numeric Functions](../day-09/) | [Day 11: CASE WHEN →](../day-11/)
+| Date Functions & CAST |
 
 ---
 
@@ -240,5 +240,3 @@ Using the `project_milestones` table, answer these questions:
 - **TO_CHAR and TO_DATE**: Format dates and numbers for board-ready reports, and parse date strings from external sources with explicit format patterns
 
 ---
-
-[← Day 9: String & Numeric Functions](../day-09/) | [Day 11: CASE WHEN →](../day-11/)

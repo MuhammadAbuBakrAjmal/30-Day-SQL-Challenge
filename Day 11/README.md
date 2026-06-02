@@ -1,6 +1,6 @@
 # Day 11 - CASE WHEN
 
-[Watch the video](COMING_SOON) | [← Day 10: Date Functions & CAST](../day-10/) | [Day 12: Subqueries & Temp Tables →](../day-12/)
+| CASE WHEN |
 
 ---
 
@@ -251,5 +251,3 @@ Using the `support_tickets` table, answer the questions below.
 - **ELSE clause:** Always include it - your safety net for unexpected or NULL values
 
 ---
-
-[← Day 10: Date Functions & CAST](../day-10/) | [Day 12: Subqueries & Temp Tables →](../day-12/)

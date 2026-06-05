@@ -1,6 +1,6 @@
 # Day 13 - CTEs (Part 1)
 
-[Watch the video](COMING_SOON) | [← Day 12: Subqueries & Temp Tables](../day-12/) | [Day 14: Project: IoT Sensor Data Pipeline →](../day-14/)
+| CTEs (Part 1) |
 
 ---
 
@@ -274,5 +274,3 @@ Using the dataset above, answer the questions below.
 - **Performance:** In modern PostgreSQL (12+), non-recursive CTEs referenced once are inlined automatically
 
 ---
-
-[← Day 12: Subqueries & Temp Tables](../day-12/) | [Day 14: Project: IoT Sensor Data Pipeline →](../day-14/)

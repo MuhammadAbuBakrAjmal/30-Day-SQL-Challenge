@@ -1,6 +1,6 @@
 # Day 14 - Project: IoT Sensor Data Pipeline
 
-[Watch the video](COMING_SOON) | [← Day 13: CTEs (Part 1)](../day-13/) | [Day 15: JOINs Part 1 →](../day-15/)
+| Project: Fleet Intelligence Pipeline | 
 
 ---
 
@@ -257,4 +257,3 @@ Your job is to build a SQL pipeline that takes raw sensor readings and transform
 
 ---
 
-[← Day 13: CTEs (Part 1)](../day-13/) | [Day 15: JOINs Part 1 →](../day-15/)

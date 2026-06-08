@@ -1,6 +1,6 @@
 # Day 15 - JOINs Part 1: INNER, LEFT, RIGHT & FULL OUTER
 
-[Watch the video](COMING_SOON) | [← Day 14: Project: IoT Sensor Data Pipeline](../day-14/) | [Day 16: CROSS JOIN & Self Joins →](../day-16/)
+ | JOINs Part 1: INNER, LEFT, RIGHT, FULL OUTER) |
 
 ---
 
@@ -297,4 +297,3 @@ Using the dataset above, answer the questions below.
 
 ---
 
-[← Day 14: Project: IoT Sensor Data Pipeline](../day-14/) | [Day 16: CROSS JOIN & Self Joins →](../day-16/)

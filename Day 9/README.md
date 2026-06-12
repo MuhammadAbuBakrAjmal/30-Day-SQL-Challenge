@@ -185,4 +185,5 @@ Freya needs clean product data and accurate margins before the website refresh g
 - **Nesting functions**: The inside-out rule - innermost function runs first, and you can combine string and numeric functions in the same query
 
 ---
+Live the all documentation form .
 

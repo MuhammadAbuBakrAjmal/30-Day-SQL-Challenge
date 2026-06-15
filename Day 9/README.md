@@ -187,3 +187,7 @@ Freya needs clean product data and accurate margins before the website refresh g
 ---
 Live the all documentation form .
 
+
+
+Cloudera is an enterprise data and AI platform that unifies all your data across multi-cloud, on-premises, and edge environments. It provides a hybrid open data lakehouse built on open-source table formats like Apache Iceberg, enabling businesses to securely manage, govern, and deploy Private AI and analytics anywhere.
+
